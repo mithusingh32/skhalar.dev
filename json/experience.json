@@ -1,0 +1,69 @@
+[
+  {
+    "jobTitle": "Software Engineer/ISSO",
+    "location": "Ft. Washington, PA, USA",
+    "company": "Mikros Systems Inc",
+    "logo": "./images/company-logos/mikros.png",
+    "duration": "Jun '20 - Present",
+    "link": "https://mikrossystems.com/",
+    "description": "Mikros Systems designs, develops and manufactures hardware and software for advanced DoD applications.",
+    "responsibilities": [
+      "Wrote bash scripts to automate STIG implementation and reduce manual effort by 95%.",
+      "Contribute to software product development including new features and maintenance in Angular, Node.js, and Java. ",
+      "Created custom deliverable RHEL image with STIG and custom software solutions integrated with Kickstart.",
+      "Install hardware and software solution on LCS class Navy vessels to provide condition based prognostics.",
+      "Partner with Information System Security Manager on security vulnerabilities, threats, and compliance matters.",
+      "Serve as internal subject matter expert on implementation of  IT security policies and guidelines.",
+      "Contribute to identification and analysis of information security polices, deficiencies, and needs relating to contract and eMASS requirements through reports, contacts, site inspections, and facility reviews. ",
+      "Author technical documentation and document ISSO processes. ",
+      "Completed Risk Management Framework (RMF) online training."
+    ]
+  },
+  {
+    "jobTitle": "Lead Frontend/Backend Engineer",
+    "location": "Remote",
+    "company": "JunGG",
+    "logo": "./images/company-logos/junggg.png",
+    "duration": "Nov '20 - Present",
+    "link": "https://jung.gg/",
+    "description": "Jung.GG is a website for jungle mains in League of Legends",
+    "responsibilities": [
+      "Served as lead on a seven-member team to migrate the site to a modern framework.",
+      "Developed a library of highly-responsive, reusuable UI components via ReactJs and TaillwindCSS.",
+      "Translated designs and wireframes into high-quality code via Javascript and ReactJs",
+      "Implemented AWS S3 Bucket and EC2 for static web site and data hosting.",
+      "Introduced Github Actions for CI/CD to build and push files to an AWS bucket configured for static site hosting. ",
+      "Wrote Python scripts to fetch data from Riot API and reduce backend complexity."
+    ]
+  },
+  {
+    "jobTitle": "Associate Software Engineer",
+    "location": "King of Prussia, PA, USA",
+    "company": "Lockheed Martin",
+    "logo": "./images/company-logos/junggg.png",
+    "duration": "June '18 - June '20",
+    "link": "https://lockheedmartin.com/",
+    "description": "Joined as an Intern and converted to FTE in Jan 2019 with work performed under a DoD Security Clearance.",
+    "responsibilities": [
+      "Developed in an Agile-Scrum environment with daily scrum meetings, weekly sprint planning, and release planning.",
+      "Developed GPS software solutions in C++, CUDA and Qt in a RHEL environment.",
+      "Lead a team in building, testing, and delivering hardware systems.",
+      "Created test procedures for release testing deliverables and built automated testing tools in Bash.",
+      "Developed front-end web application using Angular 9 with REST calls to Swagger.io generated API."
+    ]
+  },
+  {
+    "jobTitle": "Network & Hardware Support Specialist",
+    "location": "Maryland, USA",
+    "company": "Khalar LLC/Hillside Liquors LLC/Khalar Hospitality LLC",
+    "logo": "",
+    "duration": "2009 - 2018",
+    "link": "",
+    "description": "Supported the IT needs of three family-owned businesses operating in Maryland.",
+    "responsibilities": [
+      "Provided tactical leadership during monthly system audits to ensure database integrity and inventory accuracy.",
+      "Maintained Windows 10, Clover, and point of sale system hardware and software to ensure uptime. ",
+      "Constructed a full network for surveillance cameras and remote video streaming from a central location."
+    ]
+  }
+]

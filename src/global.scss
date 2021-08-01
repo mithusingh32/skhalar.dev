@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://overpass-30e2.kxcdn.com/overpass.css');
+
+.section-title {
+  @apply text-2xl;
+  font-weight: 700;
+  color: #545e69;
+}
+
+li, p {
+  color: #434343;
+}
+
+html {
+  scroll-behavior: smooth;
+}

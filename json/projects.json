@@ -1,0 +1,30 @@
+[
+  {
+    "title": "MusicalKey",
+    "duration": "June '21 - Present",
+    "description": "Cross-Platform application to help producers and DJs to create music without any music theory. The application uses SuperpoweredSDK to provide information on audio files.",
+    "technologies": ["React", "TypeScript", "TailwindCSS", "C++", "SuperpoweredSDK"],
+    "link": "https://github.com/mithusingh32/musicalkey"
+  },
+  {
+    "title": "Portfolio Website v2",
+    "duration": "July '21 - Present",
+    "description": "Revamped Portfolio website",
+    "technologies": ["Svelte", "TailwindCSS"],
+    "link": "https://sukhmeetkhalar.com"
+  },
+  {
+    "title": "Personal Server",
+    "duration": "Mar '21 - Present",
+    "description": "Created a server on a Dell PowerEdge running VMware eSXi as a personal cloud, DHCP server, VPN and more, using Let’s Encrypt for public facing services (Nextcloud, Taiga)",
+    "technologies": ["eSXI", "Linux", "OPenVPN2", "Nextcloud", "PiHole"],
+    "link": "https://sukhicloud.dedyn.io:443"
+  },
+  {
+    "title": "Portfolio Website v1",
+    "duration": "Jan '18 - July '21",
+    "description": "Personal portfolio website that is no longer maintained. It has been replaced w/ v2 ",
+    "technologies": ["Angular 9", "Javascript", "Firebase"],
+    "link": ""
+  }
+]
